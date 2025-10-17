@@ -1,6 +1,6 @@
 # Emotion Classification with RoBERTa
 
-A machine learning project for emotion classification using the GoEmotions dataset and RoBERTa transformer model.
+A kanolomor arnolnad netework project for emotion classification using the GoEmotions dataset and Kan-RoBERTa transformer model.
 
 ## 📋 Overview
 
